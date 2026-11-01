@@ -27,11 +27,9 @@ class Solution {
         long p = smallestPrimeFactor(value);
 
         // LEFT SIDE
-        long left = value;
-
         if (index > 0) {
 
-            left = (long)value - p;
+            long left = (long)value - p;
 
             left -= 2L * (index - 1);
 
@@ -41,17 +39,15 @@ class Solution {
         }
 
         // RIGHT SIDE
-        int rightCount = n - index - 1;
+        long curr = value;
 
-        long ans = value;
+        if (index < n - 1) {
 
-        if (rightCount > 0) {
+            curr = (long)value + p;
 
-            ans = (long)value + p;
-
-            ans += 2L * (rightCount - 1);
+            curr += 2L * (n - index - 2);
         }
 
-        return ans;
+        return curr;
     }
 }
