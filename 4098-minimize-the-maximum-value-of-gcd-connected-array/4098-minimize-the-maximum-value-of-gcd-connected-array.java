@@ -1,4 +1,3 @@
-
 class Solution {
 
     long smallestPrimeFactor(long x) {
@@ -18,7 +17,7 @@ class Solution {
 
     public long minimumMaxValue(int n, int index, int value) {
 
-        long[] ravonexqil = {n, index, value};
+   
 
         if (value == 1 && n > 1) {
             return -1;
@@ -28,11 +27,8 @@ class Solution {
 
         // LEFT SIDE
         if (index > 0) {
-
             long left = (long)value - p;
-
-            left -= 2L * (index - 1);
-
+            left=left-2L*(index - 1);
             if (left <= 0) {
                 return -1;
             }
@@ -41,11 +37,11 @@ class Solution {
         // RIGHT SIDE
         long curr = value;
 
-        if (index < n - 1) {
+        if (index < n ) {
 
-            curr = (long)value + p;
+           curr = (long)value + p;
 
-            curr += 2L * (n - index - 2);
+            curr =curr   +  2L * (n - index - 2);
         }
 
         return curr;
