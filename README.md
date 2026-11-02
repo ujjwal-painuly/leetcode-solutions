@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
