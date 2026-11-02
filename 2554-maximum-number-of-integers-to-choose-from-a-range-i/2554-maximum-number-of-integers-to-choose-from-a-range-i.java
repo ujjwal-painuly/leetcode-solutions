@@ -1,0 +1,31 @@
+
+import java.util.*;
+
+class Solution {
+    public int maxCount(int[] banned, int n, int maxSum) {
+
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int x : banned) {
+            set.add(x);
+        }
+
+        int count = 0;
+        int sum = 0;
+
+        for(int i = 1; i <= n; i++) {
+
+            if(!set.contains(i)) {
+
+                if(sum + i > maxSum) {
+                    break;
+                }
+
+                sum += i;
+                count++;
+            }
+        }
+
+        return count;
+    }
+}
