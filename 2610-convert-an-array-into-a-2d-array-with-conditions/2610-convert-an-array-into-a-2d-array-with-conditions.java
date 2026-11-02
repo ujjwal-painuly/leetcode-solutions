@@ -5,20 +5,21 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
 
         HashMap<Integer, Integer> map = new HashMap<>();
+for(int i = 0; i < nums.length; i++) {
 
-        for(int x : nums) {
+    int x = nums[i];
 
-            int count = map.getOrDefault(x, 0);
+    int count = map.getOrDefault(x, 0);
 
-            if(count == ans.size()) {
-                ans.add(new ArrayList<>());
-            }
-
-            ans.get(count).add(x);
-
-            map.put(x, count + 1);
-        }
-
-        return ans;
+    if(count == ans.size()) {
+        ans.add(new ArrayList<>());
     }
+
+    ans.get(count).add(x);
+
+    map.put(x, count + 1);
 }
+
+    return ans;
+}
+    }
