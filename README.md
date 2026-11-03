@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0629-k-inverse-pairs-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0629-k-inverse-pairs-array) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
