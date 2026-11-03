@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0629-k-inverse-pairs-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0629-k-inverse-pairs-array) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1323-maximum-69-number](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -66,8 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
