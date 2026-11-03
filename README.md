@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0629-k-inverse-pairs-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0629-k-inverse-pairs-array) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Recursion
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 <!---LeetCode Topics End-->
