@@ -9,6 +9,9 @@ class Solution {
           }
 
         }
+        if(used>n){
+            return 0;
+        }
           if(dp[idx][used]!=-1){
             return  dp[idx][used];
           }
@@ -16,13 +19,13 @@ class Solution {
          int rem=n-used;
          int z=used-k;
          long a=0;
-         if(used<n){
+        // if(used<n){
       a=(long)rem*solve(n,goal,k,idx+1,used+1,dp)%mod;
-         }
+        // }
      long  b=0;
          if(used>k){
         b=(long)z*solve(n,goal,k,idx+1,used,dp)%mod;
-          }
+         }
        
     ans = (int)((a+b)%mod);
        dp[idx][used]=  ans;
