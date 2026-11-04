@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1323-maximum-69-number](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
