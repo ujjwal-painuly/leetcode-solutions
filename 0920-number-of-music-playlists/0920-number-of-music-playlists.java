@@ -8,10 +8,6 @@ class Solution {
             return 0;
           }
 
-        }if(idx>goal){
-            return 0;
-        }if(used>n){
-            return 0;
         }
           if(dp[idx][used]!=-1){
             return  dp[idx][used];
