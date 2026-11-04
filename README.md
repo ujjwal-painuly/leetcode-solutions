@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0629-k-inverse-pairs-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 | [1323-maximum-69-number](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
 <!---LeetCode Topics End-->
