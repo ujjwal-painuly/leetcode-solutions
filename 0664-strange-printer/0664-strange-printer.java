@@ -32,13 +32,6 @@ class Solution {
 
          ans=Math.min(ans1,ujjwal);
 
-        
-        
-         
-           
-          
-
-        
         return  dp[first][last]=ans;
 
     }
