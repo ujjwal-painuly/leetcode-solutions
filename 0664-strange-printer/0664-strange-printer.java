@@ -26,7 +26,7 @@ class Solution {
         int ujjwal=Integer.MAX_VALUE;
         for(int j=i;j<=last;j++){
             if(s.charAt(first)==s.charAt(j)){
-                ujjwal=Math.min(ujjwal,solve(s,i,j-1,dp)+solve(s,j,last,dp));
+                ujjwal=Math.min(ujjwal,solve(s,i,j-1,dp)+solve(s,j,last,dp));  
             }
         }
 
