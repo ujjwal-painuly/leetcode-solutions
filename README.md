@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2747-count-zero-request-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2747-count-zero-request-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2747-count-zero-request-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
