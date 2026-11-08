@@ -1,21 +1,29 @@
 class Solution {
     public long countValidSubstrings(String s) {
-
-        int n = s.length();
-
-        long res = 0;
-        int lastb = 0;
-
-        for (int i = 1; i < n - 1; i++) {
-
-            if (s.substring(i - 1, i + 2).equals("abc")) {
-
-                res += ((long)(i - lastb + 1) * (i - lastb + 2)) / 2 - 1;
-
-                lastb = i;
+        int n=s.length();
+        int left=0;
+        int right=0;
+        long count=0;
+        while(right<n){
+           
+            if(right>=2){
+            if(s.charAt(right)=='c'  &&   s.charAt(right-1)=='b'  &&   s.charAt(right-2)=='a'){
+            //  if(left<right-1){
+                  left=right-1;
+          //  }else{
+             //    left=left;
+           // }
             }
-        }
+             
 
-        return res + ((long)(n - lastb) * (n - lastb + 1)) / 2;
+               
+          
+        }
+               count+=right-left+1;
+               right++;
+        }
+        
+         return count;
+        
     }
 }
