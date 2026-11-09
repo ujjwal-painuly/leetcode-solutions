@@ -10,17 +10,13 @@ class Solution {
            while(low < high) {
     int mid = low + (high-low)/2;
 
-    // Count elements <= mid
-   int row = n - 1;
-int col = 0;
-int count = 0;
+  int count = 0;
 
-while(row >= 0 && col < m) {
-    if(matrix[row][col] <= mid) {
-        count += row + 1;
-        col++;
-    } else {
-        row--;
+for(int i = 0; i < n; i++) {
+    for(int j = 0; j < m; j++) {
+        if(matrix[i][j] <= mid) {
+            count++;
+        }
     }
 }
 
