@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1882-process-tasks-using-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Prefix Sum
 |  |
@@ -116,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
