@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0443-string-compression](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
