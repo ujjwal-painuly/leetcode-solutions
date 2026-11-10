@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0334-increasing-triplet-subsequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1323-maximum-69-number](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0443-string-compression) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
