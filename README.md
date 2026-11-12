@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
