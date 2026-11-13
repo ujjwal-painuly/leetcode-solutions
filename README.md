@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0920-number-of-music-playlists](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0920-number-of-music-playlists) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0443-string-compression](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0664-strange-printer) |
