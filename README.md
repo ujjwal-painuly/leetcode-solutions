@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1882-process-tasks-using-servers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Recursion
 |  |
 | ------- |
