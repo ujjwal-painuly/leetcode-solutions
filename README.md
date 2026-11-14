@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3693-climbing-stairs-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0903-valid-permutations-for-di-sequence) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
