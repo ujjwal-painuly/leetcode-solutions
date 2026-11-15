@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [1267-count-servers-that-communicate](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [1882-process-tasks-using-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1882-process-tasks-using-servers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0903-valid-permutations-for-di-sequence) |
 | [0920-number-of-music-playlists](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0920-number-of-music-playlists) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3693-climbing-stairs-ii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0920-number-of-music-playlists) |
 | [1323-maximum-69-number](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1513-number-of-substrings-with-only-1s) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0903-valid-permutations-for-di-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
