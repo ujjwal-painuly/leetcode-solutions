@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0903-valid-permutations-for-di-sequence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
