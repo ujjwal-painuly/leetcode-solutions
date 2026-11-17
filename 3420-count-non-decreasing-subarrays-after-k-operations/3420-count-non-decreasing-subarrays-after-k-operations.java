@@ -63,13 +63,13 @@ for (int i = 1; i < n; i++) {
                 + (long) nums[m] * (j - m + 1)
                 - (prefix[j ] - prefix[m-1]);
     }  else {
-                    long sum;
+                   
                     if (i != 0) {
-                        sum = prefix[j] - prefix[i - 1];
+                    operation = (long) nums[m] * (j - i + 1) - (prefix[j] - prefix[i - 1]);
                     } else {
-                        sum = prefix[j];
+                         operation = (long) nums[m] * (j - i + 1) - prefix[j];
                     }
-                    operation = (long) nums[m] * (j - i + 1) - sum;
+                 
                 }
 
     if (operation <= k) break;
