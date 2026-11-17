@@ -40,6 +40,9 @@ class Solution {
         long ans = 0;
 
         while (j < n) {
+                   while (!dq.isEmpty() &&  dq.peekFirst() < i) {
+                    dq.pollFirst();
+                }
 
             while (!dq.isEmpty() &&
                    nums[dq.peekLast()] < nums[j]) {   // CHANGE 3: <= ki jagah <
@@ -50,11 +53,7 @@ class Solution {
 
             while (i <= j) {
 
-                while (!dq.isEmpty() &&
-                       dq.peekFirst() < i) {
-                    dq.pollFirst();
-                }
-
+              
                 int m = dq.peekFirst();
 
                 long operation;
