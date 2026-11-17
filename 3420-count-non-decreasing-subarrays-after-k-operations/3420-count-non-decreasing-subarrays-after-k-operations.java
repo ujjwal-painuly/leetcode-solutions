@@ -24,7 +24,7 @@ prefix[0] = nums[0];
 for (int i = 1; i < n; i++) {
     prefix[i] = prefix[i - 1] + nums[i];
 }
-        long[] op = new long[n + 1];  
+        long[] op = new long[n+1];  
         for (int i = n - 1; i >= 0; i--) {
             int m = nge[i];
             if(i!=0){
