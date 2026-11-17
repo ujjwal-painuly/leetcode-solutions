@@ -19,17 +19,23 @@ class Solution {
     st.push(i);
 }
 
-        long[] prefix = new long[n + 1];
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
-        }
-
+      long[] prefix = new long[n];              // inclusive
+prefix[0] = nums[0];
+for (int i = 1; i < n; i++) {
+    prefix[i] = prefix[i - 1] + nums[i];
+}
         long[] op = new long[n + 1];  
         for (int i = n - 1; i >= 0; i--) {
             int m = nge[i];
+            if(i!=0){
             op[i] = (long) nums[i] * (m-1 - i+1)
-                    - (prefix[m] - prefix[i])
+                    - (prefix[m-1] - prefix[i-1])
                     + op[m];
+                    }else{
+                         op[i] = (long) nums[i] * (m-1 - i+1)
+                    - prefix[m-1]
+                    + op[m];   
+                    }
         }
 
         Deque<Integer> dq = new ArrayDeque<>();
@@ -55,11 +61,16 @@ class Solution {
     if (m > i) {
         operation = op[i] - op[m]
                 + (long) nums[m] * (j - m + 1)
-                - (prefix[j + 1] - prefix[m]);
-    } else {
-        operation = (long) nums[m] * (j - i + 1)
-                - (prefix[j + 1] - prefix[i]);
-    }
+                - (prefix[j ] - prefix[m-1]);
+    }  else {
+                    long sum;
+                    if (i != 0) {
+                        sum = prefix[j] - prefix[i - 1];
+                    } else {
+                        sum = prefix[j];
+                    }
+                    operation = (long) nums[m] * (j - i + 1) - sum;
+                }
 
     if (operation <= k) break;
 
