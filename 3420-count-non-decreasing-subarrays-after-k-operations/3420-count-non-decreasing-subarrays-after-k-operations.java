@@ -24,16 +24,12 @@ class Solution {
             prefix[i + 1] = prefix[i] + nums[i];
         }
 
-       long[] op = new long[n + 1];          // long + size n+1 (op[n] = 0)
+        long[] op = new long[n + 1];  
         for (int i = n - 1; i >= 0; i--) {
             int m = nge[i];
-           long[] op = new long[n + 1];          // op[n] = 0
-for (int i = n - 1; i >= 0; i--) {
-    int m = nge[i];
-    op[i] = (long) nums[i] * (m - i)
-            - (prefix[m] - prefix[i])
-            + op[m];                  // chain ka cumulative cost
-}
+            op[i] = (long) nums[i] * (m-1 - i+1)
+                    - (prefix[m] - prefix[i])
+                    + op[m];
         }
 
         Deque<Integer> dq = new ArrayDeque<>();
