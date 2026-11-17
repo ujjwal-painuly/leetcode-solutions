@@ -2,9 +2,9 @@ class Solution {
     public long countNonDecreasingSubarrays(int[] nums, int k) {
 
         int n = nums.length;
-            Stack<Integer> st=new Stack<>();
+        Stack<Integer> st=new Stack<>();
         int[] nge=new int[n];
-        for (int i = n - 1; i >= 0; i--) {
+        for(int i = n - 1; i >= 0; i--) {
 
     while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
         st.pop();
@@ -24,12 +24,16 @@ class Solution {
             prefix[i + 1] = prefix[i] + nums[i];
         }
 
-        long[] op = new long[n + 1];   // op[n] = 0
+       long[] op = new long[n + 1];          // long + size n+1 (op[n] = 0)
         for (int i = n - 1; i >= 0; i--) {
             int m = nge[i];
-            op[i] = (long) nums[i] * (m - i)
-                    - (prefix[m] - prefix[i])
-                    + op[m];
+           long[] op = new long[n + 1];          // op[n] = 0
+for (int i = n - 1; i >= 0; i--) {
+    int m = nge[i];
+    op[i] = (long) nums[i] * (m - i)
+            - (prefix[m] - prefix[i])
+            + op[m];                  // chain ka cumulative cost
+}
         }
 
         Deque<Integer> dq = new ArrayDeque<>();
