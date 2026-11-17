@@ -64,13 +64,15 @@ for (int i = 1; i < n; i++) {
                 - (prefix[j ] - prefix[m-1]);
     }  else {
                    
-                    if (i != 0) {
-                    operation = (long) nums[m] * (j - i + 1) - (prefix[j] - prefix[i - 1]);
-                    } else {
-                         operation = (long) nums[m] * (j - i + 1) - prefix[j];
-                    }
                  
-                }
+    if (i != 0) {
+        operation = (long) nums[i] * (j - i + 1) - (prefix[j] - prefix[i - 1]);
+    } else {
+        operation = (long) nums[i] * (j - i + 1) - prefix[j];
+    }
+}
+                 
+                
 
     if (operation <= k) break;
 
