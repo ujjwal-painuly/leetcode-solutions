@@ -7,83 +7,54 @@ class Solution {
         int[] nge = new int[n];
 
         for (int i = n - 1; i >= 0; i--) {
-
-            while (!st.isEmpty() &&
-                   nums[st.peek()] <= nums[i]) {
+            while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
                 st.pop();
             }
-
             nge[i] = st.isEmpty() ? n : st.peek();
             st.push(i);
         }
 
         long[] prefix = new long[n + 1];
-
         for (int i = 0; i < n; i++) {
             prefix[i + 1] = prefix[i] + nums[i];
         }
 
-        long[] op = new long[n + 1];              // CHANGE 1: n -> n+1 (op[n] = 0)
-
+        long[] op = new long[n + 1];   // op[n] = 0
         for (int i = n - 1; i >= 0; i--) {
-
             int m = nge[i];
-
             op[i] = (long) nums[i] * (m - i)
                     - (prefix[m] - prefix[i])
-                    + op[m];                      // CHANGE 2: poori chain ka cumulative cost
+                    + op[m];
         }
 
         Deque<Integer> dq = new ArrayDeque<>();
-
         int i = 0, j = 0;
         long ans = 0;
 
         while (j < n) {
-                   while (!dq.isEmpty() &&  dq.peekFirst() < i) {
-                    dq.pollFirst();
-                }
 
-            while (!dq.isEmpty() &&
-                   nums[dq.peekLast()] < nums[j]) {   // CHANGE 3: <= ki jagah <
+            while (!dq.isEmpty() && nums[dq.peekLast()] < nums[j]) {
                 dq.pollLast();
             }
-
             dq.addLast(j);
 
             while (i <= j) {
 
-              
                 int m = dq.peekFirst();
-
                 long operation;
 
                 if (m > i) {
-
-                    long nextOp = 0;
-
-                    if (m < n) {
-                        nextOp = op[m];
-                    }
-
-                    operation = op[i] - nextOp
+                    operation = op[i] - op[m]
                             + (long) nums[m] * (j - m + 1)
                             - (prefix[j + 1] - prefix[m]);
-
                 } else {
-
                     operation = (long) nums[m] * (j - i + 1)
                             - (prefix[j + 1] - prefix[i]);
                 }
 
-                if (operation <= k) {
-                    break;
-                }
+                if (operation <= k) break;
 
-                if (dq.peekFirst() == i) {
-                    dq.pollFirst();
-                }
-
+                if (dq.peekFirst() == i) dq.pollFirst();
                 i++;
             }
 
