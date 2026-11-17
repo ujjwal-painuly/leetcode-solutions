@@ -38,25 +38,28 @@ class Solution {
             }
             dq.addLast(j);
 
-            while (i <= j) {
+          while (i <= j) {
 
-                int m = dq.peekFirst();
-                long operation;
+    while (!dq.isEmpty() && dq.peekFirst() < i) {
+        dq.pollFirst();
+    }
 
-                if (m > i) {
-                    operation = op[i] - op[m]
-                            + (long) nums[m] * (j - m + 1)
-                            - (prefix[j + 1] - prefix[m]);
-                } else {
-                    operation = (long) nums[m] * (j - i + 1)
-                            - (prefix[j + 1] - prefix[i]);
-                }
+    int m = dq.peekFirst();
+    long operation;
 
-                if (operation <= k) break;
+    if (m > i) {
+        operation = op[i] - op[m]
+                + (long) nums[m] * (j - m + 1)
+                - (prefix[j + 1] - prefix[m]);
+    } else {
+        operation = (long) nums[m] * (j - i + 1)
+                - (prefix[j + 1] - prefix[i]);
+    }
 
-                if (dq.peekFirst() == i) dq.pollFirst();
-                i++;
-            }
+    if (operation <= k) break;
+
+    i++; 
+}
 
             ans += j - i + 1;
             j++;
