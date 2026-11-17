@@ -2,17 +2,22 @@ class Solution {
     public long countNonDecreasingSubarrays(int[] nums, int k) {
 
         int n = nums.length;
-
-        Stack<Integer> st = new Stack<>();
-        int[] nge = new int[n];
-
+            Stack<Integer> st=new Stack<>();
+        int[] nge=new int[n];
         for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
-                st.pop();
-            }
-            nge[i] = st.isEmpty() ? n : st.peek();
-            st.push(i);
-        }
+
+    while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
+        st.pop();
+    }
+
+    if (st.isEmpty()) {
+        nge[i] = n;
+    } else {
+        nge[i] = st.peek();
+    }
+
+    st.push(i);
+}
 
         long[] prefix = new long[n + 1];
         for (int i = 0; i < n; i++) {
