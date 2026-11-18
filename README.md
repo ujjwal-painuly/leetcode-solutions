@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0012-integer-to-roman) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
 ## Prefix Sum
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
