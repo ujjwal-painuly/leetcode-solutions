@@ -1,24 +1,34 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer, Integer> map1 = new HashMap<>();
 
-        for (int x : nums) {
-            set.add(x);
+        int n = nums.length;
+
+        for (int i = 0; i < n; i++) {
+            if (!map1.containsKey(nums[i])) {
+                map1.put(nums[i], 1);
+            }
         }
 
-        int k = set.size();
-        int n = nums.length;
+        int k = map1.size();
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
         int i = 0;
         int j = 0;
         int count = 0;
 
         while (j < n) {
 
-            map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+            if (!map.containsKey(nums[j])) {
+                map.put(nums[j], 1);
+            } else {
+                map.put(nums[j], map.get(nums[j]) + 1);
+            }
 
             while (map.size() == k) {
+
                 count += n - j;
 
                 map.put(nums[i], map.get(nums[i]) - 1);
