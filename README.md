@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Recursion
 |  |
 | ------- |
