@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1882-process-tasks-using-servers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
