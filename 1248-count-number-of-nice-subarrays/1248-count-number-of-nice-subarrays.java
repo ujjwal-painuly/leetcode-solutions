@@ -10,7 +10,7 @@ class Solution {
             odd++;
           }   
 
-          while(odd>k &&   i<n){
+          while(odd>k){
               if(nums[i]%2!=0){
                 odd--;
               }
