@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0044-wildcard-matching) |
