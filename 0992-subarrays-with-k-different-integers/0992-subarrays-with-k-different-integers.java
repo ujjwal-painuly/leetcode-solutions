@@ -1,5 +1,6 @@
 class Solution {
     public int atMost(int[] nums,int k){
+        if(k < 0) return 0;
           HashMap<Integer, Integer> map = new HashMap<>();
 
       int n=nums.length;
