@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0012-integer-to-roman) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0903-valid-permutations-for-di-sequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
