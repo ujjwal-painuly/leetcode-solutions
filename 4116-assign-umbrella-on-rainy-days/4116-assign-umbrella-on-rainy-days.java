@@ -17,11 +17,7 @@ class Solution {
                       ans[i]="Bob";
                     bob++;
                      
-                 } else if(i<n-1  && rain[i]==1 &&  rain[i+1]==1){
-                      
-                              ans[i]="Alice"; 
-                    alice++;
-                      
+                 
                      
                  }else{
                     ans[i]="None";
