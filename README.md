@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0920-number-of-music-playlists) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3693-climbing-stairs-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1513-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Recursion
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0443-string-compression) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
