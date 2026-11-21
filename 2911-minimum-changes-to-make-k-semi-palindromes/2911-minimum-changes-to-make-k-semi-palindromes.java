@@ -61,9 +61,9 @@ if (start == s.length()) {
      
 
          int cur=cost(s,start,i,cost);
-            if(cur==Integer.MAX_VALUE){
-             continue;
-            }
+            // if(cur==Integer.MAX_VALUE){
+            //  continue;
+            // }
          int ujjwal=solve(s,k-1,i+1,cost,dp);
            if(ujjwal==Integer.MAX_VALUE){
            continue;
