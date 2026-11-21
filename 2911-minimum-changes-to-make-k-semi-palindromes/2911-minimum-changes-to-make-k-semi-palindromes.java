@@ -15,7 +15,7 @@ if(cost[i][j]!=-1){
                       int c=0;
           for(int start=0;start<d;start++){
          
-             if(d>=1  &&  length%d==0  &&   d<length){
+             if( length%d==0){
               int l =i+start;
               int r= l+(length/d-1)*d;
               while(l<r){
@@ -61,9 +61,6 @@ if (start == s.length()) {
      
 
          int cur=cost(s,start,i,cost);
-            // if(cur==Integer.MAX_VALUE){
-            //  continue;
-            // }
          int ujjwal=solve(s,k-1,i+1,cost,dp);
            if(ujjwal==Integer.MAX_VALUE){
            continue;
