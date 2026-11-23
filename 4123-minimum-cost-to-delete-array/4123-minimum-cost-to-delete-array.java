@@ -40,6 +40,6 @@ class Solution {
                 return best;
             }
         }
-        return cost;
+       // return cost;
     }
 }
