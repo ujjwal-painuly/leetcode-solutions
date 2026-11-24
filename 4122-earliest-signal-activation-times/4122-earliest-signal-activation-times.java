@@ -44,9 +44,10 @@ class Solution {
         visit[0]=true;
         PriorityQueue<pair> pq=new PriorityQueue<>();
 
-        for(Edge e: graph[0]){
-            pq.add(new pair(e.dest, e.wt));
-        }
+     for(int i=0;i<graph[0].size();i++){
+    Edge e=graph[0].get(i);
+    pq.add(new pair(e.dest, e.wt));  
+}
 
         while(!pq.isEmpty()){
             pair cur=pq.remove();
