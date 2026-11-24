@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public class Edge{
         int src;
@@ -39,20 +41,16 @@ class Solution {
             graph[u].add(new Edge(u,v,z));// directed graph
         }
 
-        ans[0]=0;
+        requiredSignals[0]=1;                  // node 0 ko 1 "signal" kaafi (value irrelevant hai)
         boolean[] visit=new boolean[n];
-        visit[0]=true;
         PriorityQueue<pair> pq=new PriorityQueue<>();
 
-     for(int i=0;i<graph[0].size();i++){
-    Edge e=graph[0].get(i);
-    pq.add(new pair(e.dest, e.wt));  
-}
+        pq.add(new pair(0,0));                 // sirf node 0 daalo: (node 0, time 0)
 
         while(!pq.isEmpty()){
             pair cur=pq.remove();
-            int v=cur.node;
-            long time=cur.dis;
+            int v=cur.node;                    // signal is node pe pahuncha
+            long time=cur.dis;                 // is time pe pahuncha
 
             if(visit[v]){
                 continue;
