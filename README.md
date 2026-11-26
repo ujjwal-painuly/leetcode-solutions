@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -116,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0814-binary-tree-pruning) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0814-binary-tree-pruning) |
 | [1267-count-servers-that-communicate](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Recursion
 |  |
 | ------- |
