@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent) |
+| [1695-maximum-erasure-value](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1882-process-tasks-using-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1882-process-tasks-using-servers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals) |
+| [1695-maximum-erasure-value](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2747-count-zero-request-servers](https://github.com/ujjwal-painuly/leetcode-solutions/tree/main/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushpainuly1234-ui/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujjwal-painuly/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
