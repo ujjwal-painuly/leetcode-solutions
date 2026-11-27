@@ -39,9 +39,9 @@ class Solution {
 
         int near = arr[ch];
 
-        if (near != -1) {
+      if (near != -1) {
             p[cur] = near;
-        }
+      }
 
         arr[ch] = cur;
 
